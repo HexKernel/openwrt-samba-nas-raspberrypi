@@ -1,4 +1,4 @@
-**Guide to Turning a Raspberry Pi Running OpenWrt into a Samba-Based NAS**
+# Guide to Turning a Raspberry Pi Running OpenWrt into a Samba-Based NAS
 
 <img src="Samba-OpenWrt.png" alt="Samba-OpenWrt" width="600">
 
