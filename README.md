@@ -1,4 +1,4 @@
-# openwrt-samba-nas-raspberrypi
+# OpenWrt-Samba-NAS-RaspberryPi
 
 
 This repository serves as a practical guide for repurposing a Raspberry Pi running OpenWrt into a network-accessible file storage system by utilizing the storage resources available to the device. The core aim is to make data stored on the SD card or on any additional storage media connected to the Raspberry Pi accessible to other machines within the local network through the Samba (SMB/CIFS) file sharing protocol. 
